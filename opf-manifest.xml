@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Additional files to be added verbatim to the manifest in the OPF file -->
+<manifest xmlns="http://www.idpf.org/2007/opf">
+    <item id="box" href="images/box.png" media-type="image/png"/>
+ </manifest>

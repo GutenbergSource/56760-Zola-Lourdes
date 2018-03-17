@@ -1,0 +1,20 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="217" filedate="2018-03-13 19:58:02" width="16px" height="16px">
+</image>
+<image path="images/box.png" filesize="2474" filedate="2018-03-14 19:21:36" width="484px" height="92px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="64271" filedate="2018-03-14 19:21:38" width="492px" height="720px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-03-13 19:58:02" width="12px" height="12px">
+</image>
+<image path="images/publogo.png" filesize="10745" filedate="2018-03-14 19:21:39" width="447px" height="720px">
+</image>
+<image path="images/seriestitle1917.png" filesize="15635" filedate="2018-03-14 19:21:41" width="444px" height="720px">
+</image>
+<image path="images/spines.jpg" filesize="49044" filedate="2018-03-14 19:21:41" width="417px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="17997" filedate="2018-03-14 19:21:42" width="446px" height="720px">
+</image>
+</images>
